@@ -1,7 +1,9 @@
 # SCRUMMY
 
 ![Scummy Main Logo](/assets/Scrummy_Logo.png "Scrummy logo")
-<img src="assets/scrum.gif" width="250" height="250"/>
+
+
+<img src="assets/scrum.gif" width="250" height="550"/>
 
 
 [Project](#Project) | [Implemented User Stories](#Implemented-User-Stories) | [Additional feature user stories](#Additional-feature-user-stories) | [To Run the App](#To-Run-The-App) | [Planning and Learning](#Planning-and-Learning) | [Technologies](#Technologies) | [Team Mernie Sanders](#Team-Mernie-Sanders)
