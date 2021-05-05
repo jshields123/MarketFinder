@@ -20,7 +20,7 @@ The app loads a map centred on the users current location with local Street Food
 
 The scroll list, ordered closest market at the top, displays close markets and their walking distance in minutes.
 
-Each market has details page which includes: opening times, description, pictures, map with with the quickest walking route mapped out from the current users loaction to the selected market and clickable icons to the markets social media platforms.
+Each market has details page which includes: opening times, description, pictures, map with with the quickest walking route mapped out from the current users location to the selected market and clickable icons to the markets social media platforms.
 
 There is also a search bar, so if a user has a market in mind they can search the name to bring up the details page. From there they can see whether the market is open and the quickest route from their location.
 
